@@ -1,0 +1,6 @@
+{
+  "name": "RescueHub",
+  "description": "RescueHub is the ultimate offline emergency and disaster survival application, designed to help you stay safe and save lives during crises without internet connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
